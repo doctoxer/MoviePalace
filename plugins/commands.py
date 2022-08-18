@@ -89,10 +89,10 @@ async def start(client, message):
         return
     if len(message.command) ==2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-                        InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                        InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f"http://t.me/{temp.U_NAME}?startgroup=true")
                         ],[
-                        InlineKeyboardButton('✦ CHΛИИΞL ✦', url='https://t.me/+kn56vEyCQto3MDdl'),
-                        InlineKeyboardButton('✦ GᏒOUᎮ ✦', url='https://t.me/+EtniiA299YFjZmU1')
+                        InlineKeyboardButton('✦ CHΛИИΞL ✦', url='https://t.me/+DdgZ0GU8qGhlN2Vl'),
+                        InlineKeyboardButton('✦ GᏒOUᎮ ✦', url='https://t.me/+xBhd08iMcIkyODVl')
                         ],[      
                        InlineKeyboardButton('✧ HΞLᎮ ✧', callback_data='help'),
                         InlineKeyboardButton('✧ ΛBOUT ✧', callback_data='about')
