@@ -94,7 +94,7 @@ def get_reply_markup(query):
             InlineKeyboardButton('☌ 𝐒𝐞𝐚𝐫𝐜𝐡 𝐀𝐠𝐚𝐢𝐧 ☌', switch_inline_query_current_chat=query)
         ],[
             InlineKeyboardButton('☌ 𝐉𝐨𝐢𝐧 𝐇𝐞𝐫𝐞 ☌', url=f"https://t.me/NewRelease_MPG")
-        ]
+        ]]
     return InlineKeyboardMarkup(buttons)
 
 
