@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in ['group', 'supergroup']:
         buttons = [
             [
-                InlineKeyboardButton('❆ CHΛИИΞL ❆', url='https://t.me/+hpnKBqJC_cQ3ZjU1')
+                InlineKeyboardButton('❆ CHΛИИΞL ❆', url='https://t.me/AjayGhali_Admin')
             ],
             [
                 InlineKeyboardButton('✯ HΞLᎮ ✯', url=f"https://t.me/{temp.U_NAME}?start=help")
@@ -44,8 +44,8 @@ async def start(client, message):
         buttons = [[
                      InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('✦ CHΛИИΞL ✦', url='https://t.me/+kn56vEyCQto3MDdl'),
-            InlineKeyboardButton('✦ GᏒOUᎮ ✦', url='https://t.me/+EtniiA299YFjZmU1')
+            InlineKeyboardButton('✦ CHΛИИΞL ✦', url='https://t.me/mpd_grp'),
+            InlineKeyboardButton('✦ GᏒOUᎮ ✦', url='https://t.me/MoviePalace_Chat1')
             ],[      
             InlineKeyboardButton('✧ HΞLᎮ ✧', callback_data='help'),
             InlineKeyboardButton('✧ ΛBOUT ✧', callback_data='about')
@@ -91,8 +91,8 @@ async def start(client, message):
         buttons = [[
                         InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f"http://t.me/{temp.U_NAME}?startgroup=true")
                         ],[
-                        InlineKeyboardButton('✦ CHΛИИΞL ✦', url='https://t.me/+DdgZ0GU8qGhlN2Vl'),
-                        InlineKeyboardButton('✦ GᏒOUᎮ ✦', url='https://t.me/+xBhd08iMcIkyODVl')
+                        InlineKeyboardButton('✦ CHΛИИΞL ✦', url='https://t.me/mpd_grp'),
+                        InlineKeyboardButton('✦ GᏒOUᎮ ✦', url='https://t.me/MoviePalace_Chat1')
                         ],[      
                        InlineKeyboardButton('✧ HΞLᎮ ✧', callback_data='help'),
                         InlineKeyboardButton('✧ ΛBOUT ✧', callback_data='about')
